@@ -1,5 +1,13 @@
 Qingping co₂ & temp & rh monitor for home assistant
 
+# HACS Native version
+
+There is better, native python version
+https://github.com/bob-tm/ha-qingping
+
+
+# Addon
+
 code from https://github.com/niklasarnitz/qingping-co2-temp-rh-sensor-mqtt-parser converted to HA Addon.
 
 1. Add https://github.com/bob-tm/ha-qingping-parser/ as custom repository 
